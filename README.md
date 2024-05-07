@@ -4,7 +4,7 @@
 
 The BDIX Telegram Bot is a simple Telegram bot designed to facilitate searching and downloading files using various BDIX servers and online sources. It provides a convenient interface for users to search for specific files and obtain magnet links for downloading torrents.
 
-## [Click Here](https://t.me/Unolink_bot)
+## [Click Here To Start The Bot](https://t.me/Unolink_bot)
 
 ## Features
 
